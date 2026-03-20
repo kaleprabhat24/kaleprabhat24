@@ -10,24 +10,28 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> About Me
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<table>
+  <tr>
+    <td valign="top" width="60%">
 
-👋 Hi! I'm **Prabhat Kale**, a Computer Science student at<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;**Shri Ramdeobaba College of Engineering & Management, Nagpur**
+👋 Hi! I'm **Prabhat Kale**, a Computer Science student at **Shri Ramdeobaba College of Engineering & Management, Nagpur**
 
 <br/>
 
-| | |
-|:---:|:---|
-| 🎯 | Working at the intersection of **AI/ML**, **Full Stack Development**, and **Competitive Programming** |
-| 🤖 | Training and deploying ML models end-to-end — not just calling APIs |
-| 💻 | Building clean, functional web products from database to UI |
-| 🧩 | Practising DSA consistently to sharpen problem-solving instincts |
-| 🌱 | Currently exploring **System Design** and **Cloud deployment** |
-| 💬 | Ask me about **Python · Java · React · ML · DSA** |
-| ⚡ | Shipped a gesture-based MIDI controller before ever touching a piano 🎹 |
+🎯 AI/ML · Full Stack · Competitive Programming<br/>
+🤖 Training & deploying ML models end-to-end<br/>
+💻 Building web products from database to UI<br/>
+🧩 Practising DSA to sharpen problem-solving instincts<br/>
+🌱 Exploring **System Design** & **Cloud deployment**<br/>
+💬 Ask me about **Java · DSA · ML · Python · React**<br/>
+⚡ Shipped a MIDI controller before touching a piano 🎹
 
-<br clear="right"/>
+</td>
+    <td valign="middle" width="40%" align="center">
+      <img alt="Coding" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="340"/>
+    </td>
+  </tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -80,6 +84,36 @@
 
 
 
+
+
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Analytics
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=kaleprabhat24&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=F8D866&text_color=FFFFFF&border_radius=10&include_all_commits=true&count_private=true" width="100%"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaleprabhat24&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=F8D866&currStreakLabel=00F7FF&border_radius=10" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaleprabhat24&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&border_radius=10&langs_count=8" alt="Top Languages" width="45%"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaleprabhat24&bg_color=0D1117&color=00F7FF&line=F8D866&point=FFFFFF&area=true&hide_border=true&border_radius=10" width="90%"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+</div>
+
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="38"> Competitive Programming
 
 <div align="center">
@@ -116,35 +150,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 </div>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Analytics
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=kaleprabhat24&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=F8D866&text_color=FFFFFF&border_radius=10&include_all_commits=true&count_private=true" width="100%"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaleprabhat24&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=F8D866&currStreakLabel=00F7FF&border_radius=10" width="100%"/>
-    </td>
-  </tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaleprabhat24&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&border_radius=10&langs_count=8" alt="Top Languages" width="45%"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaleprabhat24&bg_color=0D1117&color=00F7FF&line=F8D866&point=FFFFFF&area=true&hide_border=true&border_radius=10" width="90%"/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-</div>
-
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" width="32"/> Connect With Me
 
