@@ -1,372 +1,203 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Prabhat%20Kale&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20AI%20that%20matters.%20Solving%20problems%20that%20last.&descAlignY=58&descSize=17&descColor=a78bfa" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Prabhat%20Kale&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20%2F%20ML%20%7C%20Full%20Stack%20Dev%20%7C%20DSA%20%7C%20CSE%20%40%20RCOEM%20Nagpur&descAlignY=56&descSize=16" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&height=70&lines=Building+AI+that+solves+real+problems+%F0%9F%A7%A0;Full+Stack+Engineer+%7C+ML+Practitioner+%F0%9F%92%BB;Competitive+Programmer+%7C+Problem+Solver+%F0%9F%8F%86;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1200&color=a78bfa&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=60&lines=AI+Engineer+%7C+Full+Stack+Dev+%7C+Problem+Solver;Turning+real-world+chaos+into+intelligent+systems+%F0%9F%A7%A0;Flagship+projects+used+by+real+people+%E2%9C%85;CS+%40+RCOEM+%E2%80%94+Nagpur%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
-</div>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> About Me
+
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+👋 Hi! I'm **Prabhat Kale**, a Computer Science student at<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;**Shri Ramdeobaba College of Engineering & Management, Nagpur**
 
 <br/>
 
-<div align="center">
+| | |
+|:---:|:---|
+| 🎯 | Working at the intersection of **AI/ML**, **Full Stack Development**, and **Competitive Programming** |
+| 🤖 | Training and deploying ML models end-to-end — not just calling APIs |
+| 💻 | Building clean, functional web products from database to UI |
+| 🧩 | Practising DSA consistently to sharpen problem-solving instincts |
+| 🌱 | Currently exploring **System Design** and **Cloud deployment** |
+| 💬 | Ask me about **Python · Java · React · ML · DSA** |
+| ⚡ | Shipped a gesture-based MIDI controller before ever touching a piano 🎹 |
 
-[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-prabhat--portfolio.vercel.app-a78bfa?style=for-the-badge&labelColor=0d0d1a)](https://prabhat-portfolio-two.vercel.app/)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d1a)](https://www.linkedin.com/in/prabhat-kale-371788367)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-kaleprabhat24@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d1a)](mailto:kaleprabhat24@gmail.com)
+<br clear="right"/>
 
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
----
 
-<br/>
-
-## `> whoami`
-
-```ts
-const PrabhatKale = {
-  role        : "Computer Science Engineer (Final Year)",
-  college     : "Shri Ramdeobaba College of Engineering & Management, Nagpur",
-  obsession   : ["AI/ML Systems", "Full Stack Engineering", "DSA & Competitive Programming"],
-
-  philosophy  : "I don't just build apps — I build solutions that earn their existence.",
-
-  currently   : {
-    building  : "AI-powered civic & accessibility tools",
-    learning  : "LLM fine-tuning · Agentic AI · System Design at scale",
-    goal      : "Join a team solving problems that genuinely matter"
-  },
-
-  superpowers : [
-    "Bridging ML research → production-ready product",
-    "Designing human-first AI interfaces",
-    "Turning complex datasets into actionable intelligence"
-  ],
-
-  funFact     : "I shipped a gesture-based MIDI controller before ever touching a piano 🎹"
-};
-```
-
-<br/>
-
----
-
-## 🛠 Tech Arsenal
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Stack
 
 <div align="center">
 
-**Languages**
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,javascript,typescript,java&theme=dark" />
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,typescript" />
+</p>
 
-**Frontend**
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite&theme=dark" />
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,django" />
+</p>
 
-**Backend & APIs**
+### 🤖 AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  &nbsp;
+  <img height="47" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn"/>
+  &nbsp;
+  <img height="47" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" title="OpenCV"/>
+  &nbsp;
+  <img height="47" src="https://cdn.simpleicons.org/huggingface/FFD21E" title="HuggingFace"/>
+  &nbsp;
+  <img height="47" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" title="NumPy"/>
+  &nbsp;
+  <img height="47" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" title="Pandas"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,django&theme=dark" />
+### 🗄️ Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase,docker,git,linux,vscode" />
+</p>
 
-**AI / ML**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
-&nbsp;
-<img height="48" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" title="Scikit-learn"/>
-&nbsp;
-<img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" title="OpenCV"/>
-&nbsp;
-<img height="48" src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="HuggingFace" title="HuggingFace"/>
-
-**Data & Cloud**
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase,docker,git,linux&theme=dark" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 </div>
 
-<br/>
 
----
 
-## 🚀 Flagship Work
 
-> *Each project below was built to solve a real problem — not to fill a portfolio.*
-
-<br/>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏕️ Anandwan Smart Visitor Assistant</h3>
-      <p><strong>The problem:</strong> Anandwan — a self-sustained community for people with leprosy — had no digital navigation or guided experience for thousands of annual visitors.</p>
-      <p><strong>What I built:</strong> An AI-powered web assistant with indoor navigation, contextual guided tours, and real-time FAQ resolution — giving visitors a meaningful, accessible experience without human overhead.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/NLP-a78bfa?style=flat-square"/>
-        <img src="https://img.shields.io/badge/GIS-Maps-34d399?style=flat-square"/>
-      </p>
-      <a href="https://github.com/kaleprabhat24/anandwan-smart-visitor-assistant">
-        <img src="https://img.shields.io/badge/View%20Repo-%E2%86%92-a78bfa?style=for-the-badge&labelColor=0d0d1a"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🗺️ FRA Atlas — atlas-scan-act</h3>
-      <p><strong>The problem:</strong> Forest Rights Act claims in rural India require accurate land mapping — a process that's manual, error-prone, and inaccessible to most claimants.</p>
-      <p><strong>What I built:</strong> A pipeline combining OCR, AI text extraction, and GIS mapping to digitize and georeference land claim documents — enabling faster, fairer legal processing.</p>
-      <p>
-        <img src="https://img.shields.io/badge/OCR-Tesseract-orange?style=flat-square"/>
-        <img src="https://img.shields.io/badge/GIS-Leaflet.js-22c55e?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Python-AI-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      </p>
-      <a href="https://github.com/kaleprabhat24/atlas-scan-act">
-        <img src="https://img.shields.io/badge/View%20Repo-%E2%86%92-a78bfa?style=for-the-badge&labelColor=0d0d1a"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>😶‍🌫️ EmotiSense</h3>
-      <p><strong>The problem:</strong> Human emotion is invisible in digital interfaces — leaving products blind to user frustration, engagement, or discomfort.</p>
-      <p><strong>What I built:</strong> A real-time ML pipeline using facial landmark analysis and custom-trained classifiers to detect 7 emotion states — enabling emotion-aware UX applications.</p>
-      <p>
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MediaPipe-00897B?style=flat-square"/>
-      </p>
-      <a href="https://github.com/kaleprabhat24/EmotiSense">
-        <img src="https://img.shields.io/badge/View%20Repo-%E2%86%92-a78bfa?style=for-the-badge&labelColor=0d0d1a"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛍️ SmartShop Genie</h3>
-      <p><strong>The problem:</strong> E-commerce is noisy and impersonal — users scroll endlessly without finding what they actually need.</p>
-      <p><strong>What I built:</strong> An AI-powered virtual shopping experience with voice-guided navigation, preference filtering, and calorie-aware product recommendations — making shopping genuinely personal.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AI-Recommendations-a78bfa?style=flat-square"/>
-      </p>
-      <a href="https://github.com/kaleprabhat24/SmartShop-Genie">
-        <img src="https://img.shields.io/badge/View%20Repo-%E2%86%92-a78bfa?style=for-the-badge&labelColor=0d0d1a"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎵 MidiHands</h3>
-      <p><strong>The problem:</strong> Music creation requires expensive hardware. Gesture should be enough.</p>
-      <p><strong>What I built:</strong> A computer-vision MIDI controller that maps hand gestures to real-time musical notes — making music production accessible with just a webcam.</p>
-      <p>
-        <img src="https://img.shields.io/badge/MediaPipe-00897B?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MIDI-mido-f59e0b?style=flat-square"/>
-      </p>
-      <a href="https://github.com/kaleprabhat24/MidiHands">
-        <img src="https://img.shields.io/badge/View%20Repo-%E2%86%92-a78bfa?style=for-the-badge&labelColor=0d0d1a"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ GoogleFormAutoFiller</h3>
-      <p><strong>The problem:</strong> Repetitive form-filling kills productivity in academic and research workflows.</p>
-      <p><strong>What I built:</strong> A Chrome extension powered by AI context-parsing that intelligently auto-fills Google Forms — reducing form completion time by up to 90%.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Chrome-Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/AI-NLP-a78bfa?style=flat-square"/>
-      </p>
-      <a href="https://github.com/kaleprabhat24/GoogleFormAutoFiller">
-        <img src="https://img.shields.io/badge/View%20Repo-%E2%86%92-a78bfa?style=for-the-badge&labelColor=0d0d1a"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧮 DSA Mastery Repository</h3>
-      <p>Structured DSA practice: 400+ problems categorized by topic, pattern, and difficulty — designed as both a learning resource and an interview preparation system.</p>
-      <a href="https://github.com/kaleprabhat24/DSA">
-        <img src="https://img.shields.io/badge/View%20Repo-%E2%86%92-a78bfa?style=for-the-badge&labelColor=0d0d1a"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔬 Virtual Lab Platform</h3>
-      <p>An interactive virtual laboratory environment enabling students to run simulated experiments online — bridging physical lab access gaps in underfunded institutions.</p>
-      <a href="https://github.com/kaleprabhat24">
-        <img src="https://img.shields.io/badge/View%20Repo-%E2%86%92-a78bfa?style=for-the-badge&labelColor=0d0d1a"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
----
-
-## 🏆 Competitive Programming
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="38"> Competitive Programming
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <table>
   <tr>
     <td align="center" width="55%">
-      <img src="https://leetcard.jacoblin.cool/prabhat_2004?theme=dark&font=JetBrains+Mono&ext=contest&border=0&radius=12&width=400" alt="LeetCode Stats" width="100%"/>
+      <img src="https://leetcard.jacoblin.cool/prabhat_2004?theme=dark&font=Fira+Code&ext=contest&border=0&radius=10" alt="LeetCode Stats" width="100%"/>
     </td>
     <td align="center" width="45%">
-      <h3>⚔️ Platforms</h3>
+      <h3>🎯 Platforms</h3>
       <br/>
       <a href="https://leetcode.com/u/prabhat_2004/" target="_blank">
-        <img src="https://img.shields.io/badge/LeetCode-prabhat__2004-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a1a2e" height="38"/>
+        <img src="https://img.shields.io/badge/LeetCode-prabhat__2004-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a1a1a" height="36"/>
       </a>
       <br/><br/>
       <a href="https://www.codechef.com/users/prabhat_kale" target="_blank">
-        <img src="https://img.shields.io/badge/CodeChef-prabhat__kale-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1a2e" height="38"/>
+        <img src="https://img.shields.io/badge/CodeChef-prabhat__kale-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1a1a" height="36"/>
       </a>
       <br/><br/>
       <a href="https://www.hackerrank.com/profile/kaleprabhat24" target="_blank">
-        <img src="https://img.shields.io/badge/HackerRank-kaleprabhat24-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black&labelColor=1a1a2e" height="38"/>
+        <img src="https://img.shields.io/badge/HackerRank-kaleprabhat24-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black&labelColor=1a1a1a" height="36"/>
       </a>
       <br/><br/>
       <a href="https://codolio.com/profile/eTZKYpjd" target="_blank">
-        <img src="https://img.shields.io/badge/Codolio-Profile-a78bfa?style=for-the-badge&labelColor=1a1a2e" height="38"/>
+        <img src="https://img.shields.io/badge/Codolio-Profile-00F7FF?style=for-the-badge&labelColor=1a1a1a" height="36"/>
       </a>
     </td>
   </tr>
 </table>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 </div>
 
-<br/>
 
----
-
-## 📊 GitHub Pulse
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Analytics
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=kaleprabhat24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&border_radius=12&include_all_commits=true&count_private=true" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=kaleprabhat24&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=F8D866&text_color=FFFFFF&border_radius=10&include_all_commits=true&count_private=true" width="100%"/>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaleprabhat24&theme=tokyonight&hide_border=true&background=0d0d1a&stroke=a78bfa&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa&border_radius=12" width="100%"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaleprabhat24&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=F8D866&currStreakLabel=00F7FF&border_radius=10" width="100%"/>
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaleprabhat24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e2e8f0&border_radius=12&langs_count=8" width="42%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaleprabhat24&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&border_radius=10&langs_count=8" alt="Top Languages" width="45%"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaleprabhat24&bg_color=0d0d1a&color=a78bfa&line=a78bfa&point=f59e0b&area=true&area_color=302b63&hide_border=true&border_radius=12" width="88%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaleprabhat24&bg_color=0D1117&color=00F7FF&line=F8D866&point=FFFFFF&area=true&hide_border=true&border_radius=10" width="90%"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 </div>
 
-<br/>
 
----
-
-## 🧠 What I Bring to a Team
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" width="32"/> Connect With Me
 
 <div align="center">
 
-| Trait | What it means in practice |
-|-------|--------------------------|
-| 🎯 **Impact-first mindset** | I ask "who does this help?" before writing a single line |
-| 🔗 **Full-stack fluency** | From data pipelines → REST APIs → polished frontends, no handoff gaps |
-| 🤖 **AI integration depth** | Not just calling APIs — training, fine-tuning, deploying models end-to-end |
-| 🧩 **System thinking** | I design for edge cases, scale, and the user who never reads docs |
-| 🚢 **Ships things** | Every project here is deployed, documented, and used by real people |
-
-</div>
-
-<br/>
-
----
-
-## 🔭 Currently Building
-
-```yaml
-status: active
-
-projects:
-  - name: "LLM-Augmented Legal Document Assistant"
-    desc: "Helping rural communities understand their land rights in plain language"
-    stage: "prototype → beta"
-
-  - name: "Emotion-Adaptive UI Framework"
-    desc: "Dynamic interfaces that respond to real-time user emotional state"
-    stage: "research → implementation"
-
-learning:
-  - "LLM fine-tuning (LoRA / QLoRA)"
-  - "Distributed systems & microservices"
-  - "Advanced system design patterns"
-
-open_to:
-  - "Internships at AI-first companies"
-  - "Research collaborations"
-  - "High-impact open source projects"
-```
-
-<br/>
-
----
-
-## 💭 Engineering Philosophy
-
-<div align="center">
-
-> *"Every abstraction hides a lie — understand the lie before you trust the abstraction."*
-
-> *"The best ML model is the one that doesn't need a PhD to interpret its output."*
-
-> *"Code that serves no one is elegant garbage."*
-
-</div>
-
-<br/>
-
----
-
-## 🌐 Let's Connect
-
-<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br/>
 
 <a href="https://www.linkedin.com/in/prabhat-kale-371788367" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Prabhat%20Kale-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d1a" height="44"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://prabhat-portfolio-two.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-Live%20Site-a78bfa?style=for-the-badge&labelColor=0d0d1a" height="44"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:kaleprabhat24@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-kaleprabhat24-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d1a" height="44"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Prabhat%20Kale-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" height="40"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/kaleprabhat24" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-kaleprabhat24-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=0d0d1a" height="44"/>
+  <img src="https://img.shields.io/badge/GitHub-kaleprabhat24-474747?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" height="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://prabhat-portfolio-two.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Live-00F7FF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0D1117" height="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:kaleprabhat24@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-kaleprabhat24@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" height="40"/>
 </a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kaleprabhat24&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0d0d1a)
+![Profile Views](https://komarev.com/ghpvc/?username=kaleprabhat24&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0D1117)
+&nbsp;
+![GitHub Followers](https://img.shields.io/github/followers/kaleprabhat24?style=for-the-badge&color=F8D866&labelColor=0D1117)
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 </div>
 
 <br/>
 
----
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Dev Quote"/>
+
+</div>
+
+<br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&fontColor=a78bfa" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 </div>
 
 <div align="center">
-  <sub>Built with intentionality by <strong>Prabhat Kale</strong> · <em>every commit is a step toward something real</em></sub>
+  <sub>Made with ❤️ by <strong>Prabhat Kale</strong></sub>
+  <br/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="80">
 </div>
