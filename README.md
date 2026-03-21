@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&height=70&lines=Building+AI+that+solves+real+problems+%F0%9F%A7%A0;Full+Stack+Engineer+%7C+ML+Practitioner+%F0%9F%92%BB;Competitive+Programmer+%7C+Problem+Solver+%F0%9F%8F%86;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
-
+//pr
 <br/>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> About Me
