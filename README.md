@@ -1,7 +1,7 @@
 <div align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Prabhat%20Kale&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20%2F%20ML%20%7C%20Full%20Stack%20Dev%20%7C%20DSA%20%7C%20CSE%20%40%20RCOEM%20Nagpur&descAlignY=56&descSize=16" width="100%"/>
 </div> 
-
+prabhat
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&height=70&lines=Building+AI+that+solves+real+problems+%F0%9F%A7%A0;Full+Stack+Engineer+%7C+ML+Practitioner+%F0%9F%92%BB;Competitive+Programmer+%7C+Problem+Solver+%F0%9F%8F%86;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
